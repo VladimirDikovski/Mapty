@@ -1,3 +1,4 @@
+
 "use strict";
 
 // prettier-ignore
@@ -165,4 +166,3 @@ class Application {
 }
 
 const app = new Application();
-
